@@ -1,0 +1,3 @@
+rootProject.name = 'FlatListGridView'
+
+include ':app'
