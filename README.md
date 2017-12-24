@@ -6,4 +6,16 @@ Simple example of react native gridview list using react-native native component
   - Flat list gridview implementation
   - Magic
   
-![Alt text](/preview_screenshot.png )
+  # Result:
+
+<img src=preview_screenshot.png height = "500">
+
+
+
+License
+----
+
+MIT
+
+
+**Free Software, Hell Yeah!** 
